@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data-Science-Basic
 In this repository are the models and projects I have created based on data science domain.
 Data used in projects are directly available in the repository.
 
